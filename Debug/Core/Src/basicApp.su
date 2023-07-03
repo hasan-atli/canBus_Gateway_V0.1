@@ -1,0 +1,6 @@
+../Core/Src/basicApp.c:40:6:Init_CanA	8	static
+../Core/Src/basicApp.c:90:6:Init_Eeprom	8	static
+../Core/Src/basicApp.c:113:5:Get_Eeprom_Adr	4	static
+../Core/Src/basicApp.c:126:6:Init_CanB	16	static
+../Core/Src/basicApp.c:159:6:Init_CanC	16	static
+../Core/Src/basicApp.c:190:6:Init_CanD	16	static
